@@ -4,5 +4,7 @@
 ## TPs y ejercicios
 
 ### Clases 📝:
+
+ - [x] 31/08
  - [x] 25/08
  - [ ] Próximamente
